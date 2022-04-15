@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/back_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/favorite_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/next_icon.xml" value="0.1825" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/pause_icon.xml" value="0.1825" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/perivous_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/play_icon.xml" value="0.1825" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/playlist_play_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/previous_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/scroll_bar_icon.xml" value="0.167" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/search_icon.xml" value="0.167" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/shuffle_icon.xml" value="0.1695" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/drawable/splash_screen.xml" value="0.184" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/activity_favorite.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/activity_main.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/activity_player.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/activity_playlist.xml" value="0.25384615384615383" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/favourite_view.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/fragment_now_playing.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/music_view.xml" value="0.536" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/layout/nav_header.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/menu/nav_menu.xml" value="0.2578125" />
+        <entry key="..\:/Android_Development/Android_Project_with_Kotlin/Music Player/app/src/main/res/menu/search_view_menu.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

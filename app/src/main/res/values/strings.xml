@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Music Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="world_of_music">World of Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Back</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv" tools:ignore="TypographyEllipsis">Loading...</string>
+    <string name="repeat_btn">Repeat</string>
+    <string name="equalizer_btn">Equalizer</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_icon">Icon</string>
+    <string name="text_nav">Welcome to \nWorld of Music</string>
+    <string name="feedback">Feedback</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="nav_icon">nav_icon</string>
+    <string name="song_album">Song Album</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+    <string name="search_view">Search View</string>
+
+    <style name="min_15">15 Minutes</style>
+
+    <style name="min_30">30 Minutes</style>
+
+    <style name="min_60">60 Minutes</style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
